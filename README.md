@@ -1,4 +1,4 @@
-# Agentic Advisory 
+## Agentic Advisory 
 
 An end-to-end **Agentic AI Advisory System** built with:
 
@@ -12,9 +12,9 @@ This project demonstrates how to orchestrate a structured multi-agent AI system 
 
 ---
 
-# 🏗 Project Structure
+## 🏗 Project Structure
 
-# 🧠 Backend Overview
+### 🧠 Backend Overview
 
 The backend implements a multi-agent workflow using:
 
@@ -22,7 +22,7 @@ The backend implements a multi-agent workflow using:
 - LangGraph
 - LangSmith
 - OpenAI GPT-4o-mini
-# 🧠 Frontend Overview
+### 🧠 Frontend Overview
 The frontend is a **React-based user interface** that allows users to interact with the Agentic AI system.
 
 Its main purpose is to:
@@ -34,7 +34,7 @@ Its main purpose is to:
 
 ---
 
-# 🔁 Agent Workflow
+## 🔁 Agent Workflow
 
 The system follows this execution flow:
 
@@ -64,7 +64,7 @@ The system follows this execution flow:
 
 ---
 
-# 🔄 Iterative Improvement Logic
+### 🔄 Iterative Improvement Logic
 
 The workflow includes a revision loop:
 
