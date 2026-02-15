@@ -1,0 +1,12 @@
+langchain 
+langchain-openai 
+langgraph 
+langsmith 
+python-dotenv 
+pydantic
+mcp
+requests
+phidata
+duckduckgo-search
+fastapi
+uvicorn[standard]
