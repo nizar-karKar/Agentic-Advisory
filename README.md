@@ -5,7 +5,6 @@ An end-to-end **Agentic AI Advisory System** built with:
 - React Frontend
 - FastAPI  Backend
 - LangGraph Multi-Agent Workflow
-- OpenAI GPT-4o-mini
 - LangSmith Tracing
 
 This project demonstrates how to orchestrate a structured multi-agent AI system capable of planning, researching, writing, critiquing, and refining answers autonomously.
@@ -21,7 +20,6 @@ The backend implements a multi-agent workflow using:
 - LangChain
 - LangGraph
 - LangSmith
-- OpenAI GPT-4o-mini
 ### 🧠 Frontend Overview
 The frontend is a **React-based user interface** that allows users to interact with the Agentic AI system.
 
