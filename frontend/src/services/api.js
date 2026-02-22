@@ -1,4 +1,5 @@
-const API_URL = 'http://localhost:8000/workflow';
+//const API_URL = 'http://localhost:8000/workflow';
+const API_URL = '/api/workflow';
 
 export const generateArticle = async (question) => {
     try {

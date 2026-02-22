@@ -80,8 +80,8 @@ function App() {
             <div className="p-2 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-xl shadow-lg float-animation">
               <BookOpen className="text-white" size={28} />
             </div>
-            <div>
-              <h1 className="font-extrabold text-2xl gradient-text">AI Medium Publisher</h1>
+            <div>Agentic Advisor
+              <h1 className="font-extrabold text-2xl gradient-text"></h1>
               <p className="text-xs text-gray-600 font-medium">Powered by Advanced AI</p>
             </div>
           </motion.div>
@@ -109,13 +109,12 @@ function App() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-black mb-6 tracking-tight leading-tight">
-            Turn Ideas into
+            Turn Complex Questions into
             <br />
-            <span className="gradient-text">Compelling Stories</span>
+            <span className="gradient-text">Structured Strategic Decisions</span>
           </h1>
           <p className="text-gray-600 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
-            Harness the power of advanced AI agents to research, draft, and critique
-            professional articles in seconds.
+            Harness multi-agent AI to plan, research, analyze, critique, and deliver confident recommendations in seconds.
           </p>
         </motion.div>
 
