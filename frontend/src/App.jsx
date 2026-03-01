@@ -114,7 +114,7 @@ function App() {
             <span className="gradient-text">Structured Strategic Decisions</span>
           </h1>
           <p className="text-gray-600 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
-            Harness multi-agent AI to plan, research, analyze, critique, and deliver confident recommendations in seconds !.
+            Harness multi-agent AI to plan, research, analyze, critique, and deliver confident recommendations in seconds.
           </p>
         </motion.div>
 
