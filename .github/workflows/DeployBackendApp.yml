@@ -5,7 +5,7 @@ on:
     paths:
       - "backend/**"
     branches:
-      - feat/agentic-advisor
+      - feat/**
 
 env:
   ECR_BACKEND_IMAGE: ${{ vars.ECR_BACKEND_IMAGE }}
