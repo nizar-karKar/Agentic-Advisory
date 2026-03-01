@@ -22,4 +22,4 @@ app.include_router(workflow_router)
 
 @app.get("/")
 def health_check():
-    return {"status": "healthy"}
+    return {"status": "healthy -v2"}
